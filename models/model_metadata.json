@@ -1,0 +1,16 @@
+{
+    "threshold": 0.9435035586357117,
+    "features": [
+        "amount",
+        "log_amount",
+        "is_transfer",
+        "sender_txn_count",
+        "is_first_sender_txn",
+        "dest_txn_count",
+        "is_first_dest_txn",
+        "system_volume_this_step",
+        "amt_vs_step_avg"
+    ],
+    "beta": 1.2,
+    "auprc": 0.8108009929333578
+}

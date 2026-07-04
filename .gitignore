@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Large dataset files
+*.csv
+*.pkl
+*.h5
+*.pt
+*.joblib
+
+# Environment variables
+.env
